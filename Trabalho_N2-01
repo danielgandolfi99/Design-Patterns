@@ -1,0 +1,25 @@
+Trabalho sobre design patterns:
+-----------------------------------------------
+01 - Alexandre/Vitória: Mediator (GoF) e Iterator (GoF)
+02 - Alysson/Wellington: Chain of responsability (GoF) e Information Expert (Grasp)
+03 - Analice/Gustavo: High Cohesion (Grasp) e State (GoF)
+04 - Antônio/Pablo: Bridge (GoF) e Facade (GoF)
+05 - Camile F./Cassiano: Interpreter (GoF) e Abstract Factory (GoF)
+06 - Camile W./Guilherme: Pure Fabrication (Grasp) e  Composite (GoF)
+07 - Carolina/Mateus: Visitor (GoF) e Singleton (GoF)
+08 - Felipe/Daniel: Template Method (GoF) e Flyweight (GoF)
+09 - Gabriel/Lucas: Prototype (GoF) e Adapter (GoF)
+10 - Igor/João Vítor:  Observer (GoF) e Factory  (GoF)
+11 - Jessé/Luana: Bridge (GoF) e Facade (GoF)
+12 - Leonardo/Vinícius: Creator (Grasp) e Proxy (GoF)
+13 - Matheus/Júnior: Command (GoF) e Low Coupling (Grasp)
+14 - Pâmela/Eduardo: Memento (GoF) e Strategy (GoF)
+15 - Raíssa/Charles: Builder (GoF) e Indirection  (Grasp)
+16 - Rafaelli/Giovani:  Polymorphism (Grasp) e Decorator (GoF)
+17 - Samuel/Mariana:  Protected Variations (Grasp) e Controller (Grasp)
+
+
+Qual é o padrão de projeto?
+Qual é o problema resolvido pelo padrão de projeto?
+Características e o diagama de classes (se houver)
+Exemplos de codificação
